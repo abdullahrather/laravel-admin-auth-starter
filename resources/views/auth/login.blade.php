@@ -1,6 +1,6 @@
 @extends('auth.layouts.main')
 @push('title')
-    <title>NTCAdmin | Log in</title>
+    <title>Admin Portal | Log in</title>
 @endpush
 @section('auth-main-section')
 
@@ -10,9 +10,9 @@
             <div class="card card-outline card-primary">
                 <div class="card-header text-center">
                     <div class="sidebar-brand-icon ">
-                        <img src="{{ url('admin/img/ntc_logo_thumbnail.png') }}" alt="NTC Logo">
+                        <img src="{{ url('admin/img/logo_thumbnail.png') }}" alt="Logo">
                     </div>
-                    <a href="{{ route('register') }}" class="h1"><b>NTC Admin</b></a>
+                    <a href="{{ route('register') }}" class="h1"><b>Admin Portal</b></a>
                 </div>
                 <div class="card-body">
                     <p class="login-box-msg">Sign in to start your session</p>
