@@ -36,9 +36,9 @@
             <a class="sidebar-brand d-flex align-items-center justify-content-center"
                 href="{{ route('dashboard.index') }}">
                 <div class="sidebar-brand-icon ">
-                    <img src="{{ url('admin/img/ntc_logo_thumbnail.png') }}" alt="NTC Logo">
+                    <img src="{{ url('admin/img/logo_thumbnail.png') }}" alt="Logo">
                 </div>
-                <div class="sidebar-brand-text mx-3">NTC Admin</div>
+                <div class="sidebar-brand-text mx-3">Admin Portal</div>
             </a>
 
             <!-- Divider -->
