@@ -1,6 +1,6 @@
 # Laravel Admin Auth Starter
 
-A Laravel 10 starter that combines custom session authentication with a ready-made admin dashboard. It is a base for back-office apps: sign-up and sign-in screens, protected routes, and an admin layout with charts, tables and UI components already wired into Blade.
+A Laravel 12 starter that combines custom session authentication with a ready-made admin dashboard. It is a base for back-office apps: sign-up and sign-in screens, protected routes, and an admin layout with charts, tables and UI components already wired into Blade.
 
 ## Features
 
@@ -13,11 +13,11 @@ A Laravel 10 starter that combines custom session authentication with a ready-ma
 
 ## Tech stack
 
-PHP 8.1+, Laravel 10, MySQL, Blade, SB Admin 2, AdminLTE 3 (auth pages), Bootstrap 4, Chart.js, DataTables and SweetAlert2.
+PHP 8.2+, Laravel 12, MySQL, Blade, SB Admin 2, AdminLTE 3 (auth pages), Bootstrap 4, Chart.js, DataTables and SweetAlert2.
 
 ## Getting started
 
-You need PHP 8.1 or newer, Composer and MySQL.
+You need PHP 8.2 or newer, Composer and MySQL.
 
 ```bash
 git clone https://github.com/abdullahrather/laravel-admin-auth-starter.git
